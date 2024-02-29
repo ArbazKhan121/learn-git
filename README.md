@@ -1,2 +1,2 @@
 # learn-git
-creating my first repository to build the basic understanding of github
+creating my first repository to build the basic understanding of github.
